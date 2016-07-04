@@ -1,9 +1,0 @@
-language: python
-python:
-  - "2.7"
-  - "2.6"
-install:
-  - pip install -q -e .
-script:
-  - python runtests.py
-
