@@ -1,5 +1,6 @@
 #---My First Python written on GitHUB
 #---Second line
+#===Third line added
 #!/usr/bin/env python
 logfile = open("/var/log/syslog", "r")
 for line in logfile:
