@@ -1,4 +1,5 @@
 #---My First Python written on GitHUB
+#---Second line
 #!/usr/bin/env python
 logfile = open("/var/log/syslog", "r")
 for line in logfile:
